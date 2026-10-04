@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aes-256-and-best-encryption-softwares.vercel.app/sitemap.xml
